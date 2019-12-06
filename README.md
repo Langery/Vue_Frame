@@ -32,3 +32,13 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## TODO
+
+- [ ] 卫星守卫/卫星导航
+- [ ] Vuex 文件细化
+- [ ] ESLint
+
+## Note
+
+&emsp;If you need common function, you can click [Personal-Component-Library](https://github.com/Langery/Personal-Component-Library) to find function files.
