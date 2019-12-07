@@ -35,7 +35,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## TODO
 
-- [ ] 卫星守卫/卫星导航
+- [ ] 导航守卫
 - [ ] Vuex 文件细化
 - [ ] ESLint
 
