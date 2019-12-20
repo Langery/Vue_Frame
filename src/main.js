@@ -3,7 +3,12 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import { version } from '../package.json'
+
 Vue.config.productionTip = false
+Vue.prototype.VERSION = version
+
+Vue.use(router)
 
 new Vue({
   router,
